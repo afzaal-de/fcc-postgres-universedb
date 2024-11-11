@@ -111,3 +111,8 @@ git remote add origin https://github.com/afzaal-de/fcc-postgres-universedb.git
 git remote remove origin
 git remote add origin https://github.com/afzaal-de/fcc-postgres-universedb.git
 git add .
+git commit -m "init commit"
+git push
+git push -u origin master
+git remote add origin2 https://github.com/afzaal-de/fcc-postgres-universedb.git
+git add .
